@@ -1,0 +1,13 @@
+public enum Buttons
+{
+    SWITCH_SPACE,
+    SWITCH_DIAGRAM,
+    CENTER_UI,
+    LOOK_AT_ME_AR,
+    DEBUG,
+    START_LAUNDRY,
+    START_SAY_HI,
+    DEMOGRAPHIC,
+    HIDE_TASKS,
+    LANGUAGE
+}
